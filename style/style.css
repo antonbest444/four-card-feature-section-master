@@ -23,6 +23,8 @@ body {
   height: 100vh;
   font-family: var(--fnt-font-family);
   display: flex;
-  justify-content: center;
+  flex-direction: column;
+  justify-content: start;
   align-items: center;
+  line-height: 1.5;
 }
